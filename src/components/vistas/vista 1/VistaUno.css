@@ -9,3 +9,7 @@ h1 {
 .flechita{
   align-content: left;
 }
+
+.CardContainer {
+  background-color: aliceblue;
+}
