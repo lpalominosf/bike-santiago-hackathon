@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 
 class Mes extends Component {
-  render(){
+  render() {
     return(
-      <div>
-        <p>Mayo 2017</p>
+      <div className="Mes">
+        <h3>Mayo 2017</h3>
       </div>
     )
   }

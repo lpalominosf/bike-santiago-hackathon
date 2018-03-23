@@ -13,7 +13,8 @@ h1 {
 }
 
 .ContenedorTarjetas {
-  background-color: rgb(241, 239, 236);
+  background-color: rgb(245, 244, 243);
+  color: grey;
 }
 
 .BarraInferior {
@@ -28,4 +29,20 @@ h1 {
 
 .fa-chevron-left {
   margin: 1vh;
+}
+
+p {
+  margin: 0;
+}
+
+.Mes {
+  display: flex;
+  justify-content: start;
+  color: grey;
+  background-color: rgb(245, 244, 243);
+}
+
+.Fecha {
+  display: flex;
+  justify-content: start;
 }
