@@ -4,7 +4,7 @@ class Mes extends Component {
   render(){
     return(
       <div>
-        <h1>holi</h1>
+        <p>Mayo 2017</p>
       </div>
     )
   }

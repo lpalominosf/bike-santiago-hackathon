@@ -1,15 +1,31 @@
-.VistaUno {
+.BarraSuperior {
   background-color: #FF9A19;
-}
-
-h1 {
   color: #fff;
 }
 
-.flechita{
-  align-content: left;
+h1 {
+  margin: 0;
 }
 
-.CardContainer {
-  background-color: aliceblue;
+.viajes {  
+  display: flex;
+  justify-content: start;
+}
+
+.ContenedorTarjetas {
+  background-color: rgb(241, 239, 236);
+}
+
+.BarraInferior {
+  background-color: #FF9A19;
+  color: #fff;
+}
+
+.navbarIcons {
+  margin: 0.5vh;
+  padding: 4vh;
+}
+
+.fa-chevron-left {
+  margin: 1vh;
 }
