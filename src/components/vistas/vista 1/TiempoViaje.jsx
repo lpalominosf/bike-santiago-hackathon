@@ -4,7 +4,8 @@ class TiempoViaje extends Component {
   render() {
     return(
       <div className="TiempoViaje">
-        <h1>Tiempo de Viaje</h1>
+        <p>Total</p>
+        <h4>18 Min</h4>
       </div>
     )
   }

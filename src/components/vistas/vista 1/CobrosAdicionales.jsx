@@ -4,7 +4,8 @@ class CobrosAdicionales extends Component {
   render() {
     return(
       <div className="CobrosAdicionales">
-        <h1>Cobros Adicionales</h1>
+        <h4>Cobros Adicionales</h4>
+        <p>$1000</p>
       </div>
     )
   }
